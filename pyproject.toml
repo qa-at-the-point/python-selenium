@@ -5,8 +5,10 @@ description = ""
 authors = ["Carlos Kidman <carlos@qap.dev>"]
 
 [tool.poetry.dependencies]
-python = ">=3.8"
+python = "^3.8"
 python-dotenv = "^0.20.0"
+pyleniumio = "^1.16.1"
+webdriver-manager = "^3.8.3"
 
 [tool.poetry.dev-dependencies]
 black = "^22.6.0"

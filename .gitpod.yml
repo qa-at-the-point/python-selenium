@@ -6,6 +6,7 @@ vscode:
     - ms-toolsai.jupyter
     - ms-toolsai.jupyter-keymap
     - ms-toolsai.jupyter-renderers
+    - ms-azuretools.vscode-docker
 
 image:
   file: .gitpod.Dockerfile
