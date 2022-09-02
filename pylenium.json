@@ -11,7 +11,7 @@
     "extension_paths": [],
     "webdriver_kwargs": {},
     "seleniumwire_options": {},
-    "local_path": ""
+    "local_path": "/usr/bin/chromedriver"
   },
   "logging": {
     "screenshots_on": true
